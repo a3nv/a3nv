@@ -1,4 +1,4 @@
-# Hi there, I'm Ivan and @a3nv on github 👋
+# Hi there, I'm Ivan 👋
 - 🌱 I’m constatly learning ... everything 👀
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
