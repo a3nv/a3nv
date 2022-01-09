@@ -14,11 +14,11 @@
 ## Connect with me
 
 [<img align="left" alt="tryExplain.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://tryExplain.com)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ivanasonov/)
+[<img align="left" alt="ivanasonov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ivanasonov/)
 
 <br/>
 
-# My humble contribution to swamp the internet
+## That's me cluttering the internet even more
 <!-- BLOG-POST-LIST:START -->
 - [Bit.ly clone system design. Part 1.](http://tryexplain.com/system-design/bit-ly-clone-system-design-part-1)
 - [Conserve your keystrokes – personal productivity](http://tryexplain.com/thoughts/conserve-your-keystrokes-personal-productivity)
