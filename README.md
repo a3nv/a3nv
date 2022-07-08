@@ -2,15 +2,6 @@
 - 🌱 I’m constatly learning ... everything 👀
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
-## Github stats
-## <a href="https://github.com/a3nv/github-readme-stats">
-##   <img align="center" src="https://github-readme-stats.vercel.app/api?username=a3nv&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&hide=stars,issues,contribs" alt="a3nv's github stats" />
-## </a> 
-## <br/><br/>
-## <a href="https://github.com/a3nv/github-readme-stats">
-##   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3nv&layout=compact&theme=onedark&hide_border=true&langs_count=10" />
-## </a>
-
 ## Connect with me
 
 [<img align="left" alt="tryExplain.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://tryExplain.com)
